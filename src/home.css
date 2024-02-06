@@ -1,0 +1,32 @@
+.text{
+    text-align: center;
+}
+
+.img{ 
+  background-color: honeydew;
+ }  
+ 
+ .img table{
+    width: 100%;
+    margin-right: 100px;
+  }
+
+ .img table button{
+    padding: 10px;
+    width: 50px;
+    border: 1px solid green;
+    border-radius: 10px;
+    margin: 10px;
+   color: white;
+    background-color: green;
+}
+
+.img table input{
+   width: 50px;
+   border: 2px solid red;
+   padding: 10px;
+   height: 10px;
+   border-radius: 10px;
+   background-color: lightcoral;
+
+}

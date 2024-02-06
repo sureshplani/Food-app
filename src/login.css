@@ -1,0 +1,25 @@
+.container{
+    background-image: url('https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-repeat: no-repeat;
+    min-height: 590px;
+    min-width: 1255px;
+    
+    position: absolute;
+    background-size: cover;
+   
+    margin-top: auto;
+}
+.box h1{
+    text-align: center;
+}
+.box{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
